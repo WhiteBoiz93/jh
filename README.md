@@ -1,3 +1,28 @@
+
+
+
+My Momd Are On The Initial Page Names Are Main.cpp, Menu.h
+
+
+
+![image](https://user-images.githubusercontent.com/43432648/154221915-b85a88ca-2073-406b-9137-e01e4241bdd0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Introduction
 ![GitHub](https://img.shields.io/github/license/LGLTeam/Android-Mod-Menu?style=flat-square)
 
